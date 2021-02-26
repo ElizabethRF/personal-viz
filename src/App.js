@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+import sun from './sun.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={sun} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello visualization world!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/erofa/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Follow me on Linkedin 
         </a>
       </header>
     </div>
